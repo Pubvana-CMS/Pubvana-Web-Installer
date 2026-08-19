@@ -5,7 +5,7 @@
  * Customize this file for your CodeIgniter 4 application.
  * See the README for full documentation of all options.
  */
-$version = '2.3.1';
+$version = '2.3.6';
 
 return [
     // --- Branding ---
