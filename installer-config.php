@@ -12,8 +12,8 @@ return [
     'branding' => [
         'name'          => 'Pubvana CMS',
         'version'       => $version,
-        'logo'          => 'https://cdn.pubvana.net/pubvana_logo.png',
-        'support_url'   => 'https://pubvana.net/contact',
+        'logo'          => 'https://cdn.pubvanacms.com/pubvana_logo.png',
+        'support_url'   => 'https://pubvanacms.com/contact',
         'support_email' => 'cs@pubvana.net',
         'welcome_text'  => 'Welcome to the Pubvana Installer',  // empty = auto-generated from app name
         'colors'        => [
@@ -30,7 +30,7 @@ return [
     // --- Download Source ---
     // source.zip is REQUIRED. composer and git are optional enhancements.
     'source' => [
-        'zip' => "https://github.com/enlivenapp/pubvana/releases/download/v{$version}/release.zip",
+        'zip' => "https://github.com/Pubvana-CMS/pubvana/releases/download/v{$version}/release.zip",
     ],
 
     // --- Server Requirements ---
