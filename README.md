@@ -2,9 +2,14 @@
 
 **By EnlivenApp**
 
-Built on the [CodeIgniter 4 Flexible Web App Installer](https://github.com/enlivenapp/CodeIgniter4-Flexible-Web-App-Installer), this project produces a self-extracting installer that walks your users through setting up Pubvana via a step-by-step web wizard. Configure what you need, build, and distribute.
+Built on the [CodeIgniter 4 Flexible Web App Installer](https://github.com/enlivenapp/CodeIgniter4-Flexible-Web-App-Installer), this project produces a self-extracting installer for Pubvana CMS via a step-by-step web wizard for the user.
+
+If you're looking to install Pubvana, get the built installer at [Pubvana's Website](https://pubvana.net/dstore/product/pubvana-easy-installer).
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+
+[Original Repo](https://github.com/enlivenapp/Pubvana-Web-Installer)
 
 ---
 
